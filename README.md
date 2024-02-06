@@ -1,8 +1,27 @@
-# React + Vite
+# Contact manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This is a simple CRUD application that uses React and local storage. Contacts can be added, edited, or deleted.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup
+
+1. Clone the project
+
+2. Enter the project directory
+
+   ```bash
+   cd PrePad-assignment
+   ```
+
+3. Install project dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Run the application in dev mode:
+
+   ```bash
+   npm run dev
+   ```
